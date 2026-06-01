@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Petal 1 -->
+  <path d="M100 100 C100 60, 70 30, 100 10 C130 30, 100 60, 100 100Z" fill="#ec4899" opacity="0.9"/>
+  <!-- Petal 2 -->
+  <path d="M100 100 C140 100, 170 70, 190 100 C170 130, 140 100, 100 100Z" fill="#f472b6" opacity="0.9"/>
+  <!-- Petal 3 -->
+  <path d="M100 100 C100 140, 70 170, 100 190 C130 170, 100 140, 100 100Z" fill="#db2777" opacity="0.9"/>
+  <!-- Petal 4 -->
+  <path d="M100 100 C60 100, 30 70, 10 100 C30 130, 60 100, 100 100Z" fill="#f9a8d4" opacity="0.9"/>
+  <!-- Center -->
+  <circle cx="100" cy="100" r="18" fill="#fef08a"/>
+  <circle cx="100" cy="100" r="10" fill="#eab308"/>
+</svg>
